@@ -2,11 +2,11 @@
 <html>
 <head>
 	<?php require_once "meta.php"; ?>
-	<title>Header</title>
+	<title>Footer</title>
 </head>
 <body>
-	<header>
-	</header>
-	
+	<footer>
+		
+	</footer>
 </body>
 </html>
