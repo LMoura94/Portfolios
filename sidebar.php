@@ -1,4 +1,4 @@
-<?php require_once "meta.php"; ?>
+<?php require_once "head.php"; ?>
 
 <aside class="col-2 border">
 			<nav class="nav navbar-dark bg-dark pl-3">

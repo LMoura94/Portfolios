@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php require_once "meta.php"; ?>
+	<?php require_once "head.php"; ?>
 	<title>Header</title>
 </head>
 <body>
