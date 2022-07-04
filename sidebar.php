@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<?php require_once "meta.php"; ?>
-	<title>Header</title>
-</head>
-<body>
-		<header>
-	
-		<nav class="navbar navbar-light bg-light navbar-expand-sm">
-			<img class="icon" src="img/icon.png" href="index.php">	
-			<a class="navbar-brand" href="index.php">Página Principal	
-			</a>
-			<div >
+<?php require_once "meta.php"; ?>
+
+<aside class="col-2 border">
+			<nav class="nav navbar-dark bg-dark pl-3">
 				<ul class="navbar-nav">
-					<li class="nav-item">
+
+				<li class="nav-item">
 						<a class="nav-link" href="wordpress.php">Wordpress</a>
 					</li>
 					<li class="nav-item">
@@ -27,13 +18,8 @@
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="Contato.php">Contato</a>
-					</li>
-
+					</li>	
 				</ul>
-			</div>
-		</nav>
-		
-	</header>
-	
-</body>
-</html>
+			</nav>
+			
+		</aside>
