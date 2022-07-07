@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	
 	<?php require_once "head.php"; ?>
 	<title>Portfolios by Leonardo Moura</title>
 </head>
